@@ -1,0 +1,4 @@
+C:\Users\Flavio\Desktop\Teste\TesteIBPT\TesteIBPT\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Flavio\Desktop\Teste\TesteIBPT\TesteIBPT\obj\Debug\TesteIBPT.frmIBPT.resources
+C:\Users\Flavio\Desktop\Teste\TesteIBPT\TesteIBPT\obj\Debug\TesteIBPT.Properties.Resources.resources
+C:\Users\Flavio\Desktop\Teste\TesteIBPT\TesteIBPT\obj\Debug\TesteIBPT.csproj.GenerateResource.Cache
